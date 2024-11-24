@@ -23,3 +23,4 @@ Dynamic Question Loading: Load one question at a time using JavaScript, updating
 Answer Storage: Track user selections in real-time.
 Score Calculation: Implement a scoring function to tally correct answers.
 End Screen: Show a results page summarizing the user's performance and offering a restart button.
+![image](https://github.com/user-attachments/assets/11d8c337-6ebb-46a2-936a-481ae2329285)
